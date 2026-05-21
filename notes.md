@@ -1,1 +1,1 @@
-its notes md 
+its notes md  changes thorugh github odne
